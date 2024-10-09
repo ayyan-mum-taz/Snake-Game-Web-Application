@@ -6,10 +6,9 @@ Welcome to the Snake Game! This is a classic implementation of the Snake game bu
 
 ## 🛠 Technologies Used
 
-- **HTML5**: Structure and layout.
-- **CSS3**: Styling and responsive design.
-- **JavaScript (ES6)**: Game logic and interactivity.
-- **Google Fonts**: Custom typography for enhanced aesthetics.
+- **HTML**: Structure and layout.
+- **CSS**: Styling and responsive design.
+- **JavaScript**: Game logic and interactivity.
 
 ## 🚀 Installation
 
